@@ -1,0 +1,11 @@
+# Compilation files
+*.o
+*.dSYM/
+sdes-encrypt
+sdes-decrypt
+
+# VSCode workspace settings
+.vscode/
+
+# macOS system files
+.DS_Store
